@@ -9,7 +9,7 @@ This project predicts the time taken of deliverys, using the following parameter
 Distance - Time Taken - Age - Ratings
 
 
-## Frameworks
+## Software / Tools
 1. Python.
 2. Numpy and Pandas for data cleaning.
 3. Plotly Express for data visualization.
