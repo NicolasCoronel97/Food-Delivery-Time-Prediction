@@ -4,7 +4,7 @@
 
 To predict the food delivery time in real-time, we need to calculate the distance between the food preparation point and the point of food consumption.
 
-This project predicts the time taken of deliverys, using the following parameters.
+This project predicts the time taken of deliveries, using the following parameters.
 
 Distance - Time Taken - Age - Ratings
 
